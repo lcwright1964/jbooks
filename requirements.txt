@@ -1,1 +1,5 @@
 mpmath
+matplotlib
+numpy
+scipy
+pandas
