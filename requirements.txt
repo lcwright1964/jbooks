@@ -4,3 +4,4 @@ numpy
 scipy
 pandas
 sklearn
+statsmodels
